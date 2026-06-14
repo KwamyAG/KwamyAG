@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @KwamyAG
-- 👀 I’m interested in developing mobile app
-- 🌱 I’m currently learning flutter and dart
+- 👀 I’m interested in mobile and web app development
 - 💞️ I’m looking to collaborate on potential projects in mobile app
-- 
 - 📫 How to reach me is by email: woedek86@gmail.com 
 
 <!---
